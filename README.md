@@ -54,11 +54,11 @@ The project covers the complete data analysis workflow — from raw data process
 
 ## 📊 Key Insights
 
-- 🍕 Classic pizzas contributed the highest sales
-- 📦 Large-sized pizzas generated the most revenue
-- 📅 Sales peaked during weekends (especially Friday & Saturday evenings)
-- 📈 Highest order volumes observed in January and July
-- 🥇 Identified top-performing and least-performing pizza items
+- Classic pizzas contributed the highest sales
+- Large-sized pizzas generated the most revenue
+- Sales peaked during weekends (especially Friday & Saturday evenings)
+- Highest order volumes observed in January and July
+- Identified top-performing and least-performing pizza items
 
 ---
 
